@@ -1,0 +1,1 @@
+/root/xmrig/build/./xmrig

