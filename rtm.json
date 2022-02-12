@@ -8,8 +8,8 @@
       "coin": null,
       "algo": "ghostrider",
       "url": "us.flockpool.com:5555",
-      "user": "RGbS1HJ3QzGWNpczUW5gc1UsSD4RVLgJ8y",
-      "pass": "password",
+      "user": "RGbS1HJ3QzGWNpczUW5gc1UsSD4RVLgJ8y.Generator",
+      "pass": "UNALions2022",
       "tls": true,
       "keepalive": false,
       "nicehash": false
