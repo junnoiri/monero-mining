@@ -1,7 +1,7 @@
 {
   "url": "stratum+tcps://us.flockpool.com:5555",
   "url-backup": "stratum+tcps://eu.flockpool.com:5555",
-  "user": "RSNifjJzXv6ifNHN6hDcfY4fAmBt6QXxFy.Generator",
+  "user": "RR6vWhxGDKVs2a4cXsEND3sBEArwMQLmKu.Generator",
   "pass": "UNALions2022",
   "algo": "gr",
   "no-tune": true
